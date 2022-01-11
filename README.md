@@ -16,3 +16,4 @@ Measures of chlorophyll represent the algal biomass in freshwater that is often 
 * Maximal Information Coefficient (MIC)
 
 ## Result
+For full report please visit [here](https://github.com/Jeffrey0Liao/Data-Analysis-of-Lake-Water-Qualities/blob/main/COMP3055-Report-20030694.pdf)
