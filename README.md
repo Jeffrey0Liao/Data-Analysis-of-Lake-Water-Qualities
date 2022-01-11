@@ -1,0 +1,2 @@
+# Data-Analysis-of-Lake-Water-Qualities
+Measures of chlorophyll represent the algal biomass in freshwater that is often used as a  proxy for water quality and lake productivity. However, chlorophyll concentrations in  lakes are dependent on many variables, such as water fouling, nutrient enrichment, and  alterations in climate. We synthesize data of measured Chlorophyll A (CHLA) values with associated factors values, including Temperature and Total Phosphorus (Total P), for the Five Lakes of Maine in the US.
